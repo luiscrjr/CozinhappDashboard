@@ -1,1 +1,1 @@
-É um projeto Meteor que simula o back-end do projeto do livro de *Cordova e PhoneGap*.
+É um projeto Meteor que simula o back-end do projeto do livro de *Cordova e PhoneGap*. 
